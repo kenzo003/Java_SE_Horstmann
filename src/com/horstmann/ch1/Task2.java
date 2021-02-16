@@ -1,4 +1,4 @@
-package com.hortsmann.ch1;
+package com.horstmann.ch1;
 
 import java.util.Scanner;
 import static java.lang.Math.abs;

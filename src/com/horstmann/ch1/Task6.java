@@ -1,4 +1,4 @@
-package com.hortsmann.ch1;
+package com.horstmann.ch1;
 
 //Напишите программу, вычисляющую факториал п ! = 1 х 2 * . . . х п,
 // используя класс Biglnteger. Вычислите факториал числа 1000.
