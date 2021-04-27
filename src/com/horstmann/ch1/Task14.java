@@ -48,6 +48,7 @@ public class Task14 {
             }
             return resArray;
         }
+
         public static boolean validate(int[][] value) {
             int status[] = new int[4];
             Arrays.fill(status, 0); // 0 - строки, 1 - столбцы, 2 - глав. диаг, 3 - втор. диаг.
@@ -81,7 +82,7 @@ public class Task14 {
 
             int current = result.get(0);
             for (int item : result) {
-                if (item != current){
+                if (item != current) {
                     return false;
                 }
             }
